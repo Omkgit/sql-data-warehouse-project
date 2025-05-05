@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 💥 About Me
 
-Hi there! I'm **Omkar Chougule** , I'm **Data Analyst**.
+Hi there! I'm **Omkar Chougule** , I'm an **Data Analyst**.
